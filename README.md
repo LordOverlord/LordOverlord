@@ -10,8 +10,10 @@
 
 **Cloud**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-%23000000.svg?style=flat&logo=hetzner&logoColor=white) </br>
+
 **Languages**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)</br>
+
 **OS**
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D7?style=flat&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-%23000000.svg?style=flat&logo=centos&logoColor=white) ![RHEL](https://img.shields.io/badge/RHEL-%23CC0000.svg?style=flat&logo=redhat&logoColor=white) ![Debian](https://img.shields.io/badge/debian-%23A81D2D.svg?style=flat&logo=debian&logoColor=white) ![KaliLinux](https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=flat&logo=kali-linux&logoColor=white)</br>
 
