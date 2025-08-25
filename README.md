@@ -1,8 +1,8 @@
 ## 💫 About Me
-Automation addict. Less toil, more signal.
-Cloud/SRE with Kubernetes + Terraform on Azure/AWS/GCP.
-Current focus: platform hardening, SOC2/ISO-ready pipelines, and Go utilities for ops.
-Ask me about getting max results with strategic laziness — and cat-assisted debugging.
+🤖 Automation addict. Less toil, more signal. 📈  
+☁️ Cloud/SRE with Kubernetes + Terraform on Azure/AWS/GCP. 🧩🏗️  
+🔒 Current focus: platform hardening, SOC2/ISO-ready pipelines, and Go utilities for ops. 🛡️🔁  
+🛋️ Ask me about getting max results with strategic laziness — and cat-assisted debugging. 🐈‍⬛
 
 ## 💻 Tech Stack:
 ##### Cloud
