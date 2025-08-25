@@ -48,7 +48,7 @@
 
 🏆 **GitHub Trophies**
 
-![](output/github-achievements.svg)
+<img src="./output/github-achievements.svg" alt="GitHub Trophies" width="500"/>
 
 ✍️ **Random Dev Quote**
 
