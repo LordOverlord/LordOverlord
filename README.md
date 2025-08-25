@@ -1,8 +1,8 @@
-💫 **About Me**
-🤖 Automation addict. Less toil, more signal. 📈
-☁️ Cloud/SRE with Kubernetes + Terraform on Azure/AWS/GCP. 🧩🏗️
-🔒 Current focus: platform hardening, SOC2/ISO-ready pipelines, and Go utilities for ops. 🛡️🔁
-🛋️ Ask me about getting max results with strategic laziness — and cat-assisted debugging. 🐈‍⬛
+💫 **About Me** </br>
+🤖 Automation addict. Less toil, more signal. 📈 </br>
+☁️ Cloud/SRE with Kubernetes + Terraform on Azure/AWS/GCP. 🧩🏗️ </br>
+🔒 Current focus: platform hardening, SOC2/ISO-ready pipelines, and Go utilities for ops. 🛡️🔁 </br>
+🛋️ Ask me about getting max results with strategic laziness — and cat-assisted debugging. 🐈‍⬛ </br>
 
 📫 How to reach me:  [![GitHub followers](https://img.shields.io/github/followers/LordOverlord?label=Follow&style=social)](https://github.com/LordOverlord) [![Twitter Follow](https://img.shields.io/twitter/follow/LordOverlord_?style=social)](https://twitter.com/LordOverlord_)
 
