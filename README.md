@@ -39,7 +39,7 @@
 **Infrastructure as Code**
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-232F3E?style=flat&logo=amazonaws&logoColor=white)</br>
 
-**Languages:**
+🧩 **Languages:**
 
 ![](output/github-languages.svg)
 
