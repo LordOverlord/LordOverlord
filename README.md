@@ -4,7 +4,8 @@
 🔒 Current focus: platform hardening, SOC2/ISO-ready pipelines, and Go utilities for ops. 🛡️🔁 </br>
 🛋️ Ask me about getting max results with strategic laziness — and cat-assisted debugging. 🐈‍⬛ </br>
 
-📫 How to reach me:  [![GitHub followers](https://img.shields.io/github/followers/LordOverlord?label=Follow&style=social)](https://github.com/LordOverlord) [![Twitter Follow](https://img.shields.io/twitter/follow/LordOverlord_?style=social)](https://twitter.com/LordOverlord_)
+📫 How to reach me:
+[![GitHub followers](https://img.shields.io/github/followers/LordOverlord?label=Follow&style=social)](https://github.com/LordOverlord) [![Twitter Follow](https://img.shields.io/twitter/follow/LordOverlord_?style=social)](https://twitter.com/LordOverlord_)
 
 💻 **Tech Stack:**
 
